@@ -1,0 +1,10 @@
+# BID COIN asset
+[[CURRENCIES]]
+code="BID"
+issuer="GCQDHQHWJTK6KPBVVNZRO5EYN6BLUFGHVY6XE4YYD566WQPVWWM5TYGT"
+display_decimals=2 
+name="BID Coin"
+desc="1 bid coin allows you to bid, recieve others bid, and accept winning bids; BID Coin can/may serve auctions on and offline."
+conditions="Private round ICO is Nov 2nd, 2018 through Nov 21, 2018 and is open to accredited investors. Public ICO Nov 22nd 2018, through Dec 21st, 2018."
+image="https://github.com/bidcoins/BIDcoin/blob/master/BIDcoin%20logo%20lg.png"
+
